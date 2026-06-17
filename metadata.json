@@ -1,0 +1,6 @@
+{
+  "name": "MiLauncher",
+  "description": "A beautiful Xiaomi HyperOS / MIUI inspired Android Home Screen Launcher app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
